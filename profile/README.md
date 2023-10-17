@@ -20,7 +20,7 @@
    Les discussions :
 </h3>
 <p>
-   Pour tous repositories disponibles, les discussions sont ouvertes, poser des questions sur des zones de d'ombres, partager vos idées, nous sommes la pour vous aidez. Pour participer au discussions il devez disposer un compte github.<a href = "https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account"> cliquer sur ce lien pour créer un compte</a>.
+   Pour tous nos projets, vous êtes les bienvenus pour poser des questions, partager vos idées et obtenir de l'aide. Il vous suffit d'avoir un compte GitHub pour participer aux discussions. Nous sommes là pour vous aider à éclaircir vos zones d'ombre.<a href = "https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account"> cliquer ici et suivre les étapes pour créer un compte</a>.
 </p>
 <h3>
    Contact :
