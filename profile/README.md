@@ -11,10 +11,16 @@
 </h3>
 <p>
    <ul>
+      <li>Nous mettons a votre disposition des algorithmes en IA, en developpement de logiciel. Vous pouvez vous en inspirer, l'étudier pour atteindre vos differents objectifs.</li>
       <li>Des tutoriels détaillés vous guidant pas à pas dans la résolution de problèmes spécifiques.</li>
       <li>Projets concrets, algorithme en IA pour vous inspirer dans la résolution de problèmes réels.</li>
+      <li>Des excercices et des mini projet sur lesquels vous pouvez vous baser pour excercé et développer vos compétences</li>
    </ul>
 </p>
+<h3>
+   Qui peut tiré partie de cette plateforme:
+</h3>
+   <p>Cette plateforme s'adresse à tous ceux qui souhaitent développer leurs compétences en programmation informatique. Que vous soyez étudiant cherchant à approfondir vos connaissances, professionnel de l'informatique en quête de ressources ou expert dans un autre domaine nécessitant des compétences informatiques, vous trouverez ici des contenus et des ressources adaptés à vos besoins. Posez vos questions, commentez les projets et étendez votre compréhension dans un environnement collaboratif et éducatif.</p>
 <h3>
    Les discussions :
 </h3>
