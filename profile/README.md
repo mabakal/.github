@@ -11,9 +11,8 @@
 </h3>
 <p>
    <ul>
-      <li>Formations complètes dans divers domaines de l'informatique pour vous aider à bâtir une carrière solide.</li>
       <li>Des tutoriels détaillés vous guidant pas à pas dans la résolution de problèmes spécifiques.</li>
-      <li>Projets concrets pour vous inspirer dans la résolution de problèmes réels.</li>
+      <li>Projets concrets, algorithme en IA pour vous inspirer dans la résolution de problèmes réels.</li>
    </ul>
 </p>
 <h3>
@@ -32,6 +31,5 @@
 <p>
    <ul>
       <li><a href = "https://www.linkedin.com/company/mabakal/"> LinkedIn </a></li>
-      <li> <a href = "https://www.instagram.com/mabakal7/"> Instagram</a></li>
    </ul>
 </p>
