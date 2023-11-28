@@ -4,14 +4,14 @@
 </p>
 <h3>À propos de nous :</h3>
 <p>
-   Chez Mabakal, nous croyons en l'importance cruciale de l'informatique dans le monde d'aujourd'hui. Aucun secteur n'échappe à son influence. Notre mission est de fournir des compétences en programmation à toute personne, que vous soyez étudiant cherchant à acquérir de nouvelles compétences ou professionnel en reconversion cherchant à réussir dans votre nouvelle carrière ou pour une autres raison
+   Nous partageons des ressources liées à la programmation informatique pour vous aider à développer vos compétences dans divers domaines de l'informatique, que ce soit le développement d'applications, la science des données, l'intelligence artificielle ou autres. Cette plateforme est dédiée à toute personne souhaitant développer ses compétences en informatique.
 </p>
 <h3>
-   Ce que nous proposons :
+   Vous trouverez :
 </h3>
 <p>
    <ul>
-      <li>Nous mettons a votre disposition des algorithmes en IA, en developpement de logiciel. Vous pouvez vous en inspirer, l'étudier pour atteindre vos differents objectifs.</li>
+      <li>Des algorithme dans divers domaine de l'informatique pour vous aidé á comprendre</li>
       <li>Des tutoriels détaillés vous guidant pas à pas dans la résolution de problèmes spécifiques.</li>
       <li>Projets concrets, algorithme en IA pour vous inspirer dans la résolution de problèmes réels.</li>
       <li>Des excercices et des mini projet sur lesquels vous pouvez vous baser pour excercé et développer vos compétences</li>
