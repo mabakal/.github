@@ -1,6 +1,6 @@
 <h1>Bienvenue sur Mabakal!</h1>
 <p>
-   Nous sommes ravis de vous accueillir sur notre plateforme dédiée à l'informatique, où nous mettons à votre disposition une mine de ressources pour développer vos compétences.
+   Nous sommes heureux de vous accueillir sur notre plateforme dédiée à l'informatique, où nous mettons à votre disposition une mine de ressources pour développer vos compétences.
 </p>
 <h3>À propos de nous :</h3>
 <p>
