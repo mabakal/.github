@@ -4,7 +4,7 @@
 </p>
 <h3>À propos de nous :</h3>
 <p>
-   Nous partageons des ressources liées à la programmation informatique pour vous aider à développer vos compétences dans divers domaines de l'informatique, que ce soit le développement d'applications, la science des données, l'intelligence artificielle ou autres. Cette plateforme est dédiée à toute personne souhaitant développer ses compétences en informatique.
+   Nous partageons des ressources liées à la informatique pour vous aider à développer vos compétences dans divers domaines de l'informatique. Cett plateforme est dédiée à toute personne souhaitant développer ses compétences en informatique novice comme expert.
 </p>
 <h3>
    Vous trouverez :
@@ -35,16 +35,13 @@
    <div>
       <ul>
          <li>
-            <h5> Excellence</h5>
-            <p>Nous travaillons produire de contenue qualifié, facilement compréhensible par nos étudiant</p>
+            <p><em> Excellence :</em> Nous travaillons produire de contenue qualifié, facilement compréhensible par nos étudiant</p>
          </li>
          <li>
-            <h5> Innovation</h5>
-            <p>L'innovation est un élément fondamental dans la réussite, nous développons l'esprit d'innovation chez nos étudiant</p>
+            <p> <em> Innovation :</em> L'innovation est un élément fondamental dans la réussite, nous développons l'esprit d'innovation chez nos étudiant</p>
          </li>
          <li>
-            <h5> Collaboration</h5>
-            <p>
+            <p> <em> Collaboration :</em>
                Seul on va vite, ensemble on va loin, nous vivons dans un monde oú l'intelligence collectives est un facteurs clés pour tout projet. Nous encourageons nos étudiant á développer l'esprit de collobaration.
             </p>
          </li>
