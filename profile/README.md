@@ -21,6 +21,36 @@
    Qui peut tiré partie de cette plateforme:
 </h3>
    <p>Cette plateforme s'adresse à tous ceux qui souhaitent développer leurs compétences en programmation informatique. Que vous soyez étudiant cherchant à approfondir vos connaissances, professionnel de l'informatique en quête de ressources ou expert dans un autre domaine nécessitant des compétences informatiques, vous trouverez ici des contenus et des ressources adaptés à vos besoins. Posez vos questions, commentez les projets et étendez votre compréhension dans un environnement collaboratif et éducatif.</p>
+<h3>
+   Notre mission :
+</h3>
+<p>
+   Le développement humain est au coeur de tous ce que nous entreprenons, notre mission est de donner un formation de qualité afin de permettre au apprenant de développer leur compétences dans divers domaine informatique.
+</p>
+
+<h3>
+   Nos valeurs :
+</h3>
+<p>
+   <div>
+      <ul>
+         <li>
+            <h5> Excellence</h5>
+            <p>Nous travaillons produire de contenue qualifié, facilement compréhensible par nos étudiant</p>
+         </li>
+         <li>
+            <h5> Innovation</h5>
+            <p>L'innovation est un élément fondamental dans la réussite, nous développons l'esprit d'innovation chez nos étudiant</p>
+         </li>
+         <li>
+            <h5> Collaboration</h5>
+            <p>
+               Seul on va vite, ensemble on va loin, nous vivons dans un monde oú l'intelligence collectives est un facteurs clés pour tout projet. Nous encourageons nos étudiant á développer l'esprit de collobaration.
+            </p>
+         </li>
+      </ul>
+   </div>
+</p>
 
 <h3>
    Les discussions :
