@@ -25,7 +25,7 @@
    Notre mission :
 </h3>
 <p>
-   Le développement humain est au coeur de tous ce que nous entreprenons, notre mission est de donner un formation de qualité afin de permettre au apprenant de développer leur compétences dans divers domaine informatique.
+   Le développement humain est au cœur de tout ce que nous entreprenons. Notre mission consiste à dispenser une formation de qualité afin de permettre aux apprenants de développer leurs compétences dans divers domaines informatiques.
 </p>
 
 <h3>
@@ -35,14 +35,14 @@
    <div>
       <ul>
          <li>
-            <p><em> Excellence :</em> Nous travaillons produire de contenue qualifié, facilement compréhensible par nos étudiant</p>
+            <p><em> Excellence :</em> Nous travaillons à produire du contenu qualifié, facilement compréhensible par nos étudiants.</p>
          </li>
          <li>
-            <p> <em> Innovation :</em> L'innovation est un élément fondamental dans la réussite, nous développons l'esprit d'innovation chez nos étudiant</p>
+            <p> <em> Innovation :</em> L'innovation est un élément fondamental de la réussite. Nous développons l'esprit d'innovation chez vous.</p>
          </li>
          <li>
             <p> <em> Collaboration :</em>
-               Seul on va vite, ensemble on va loin, nous vivons dans un monde oú l'intelligence collectives est un facteurs clés pour tout projet. Nous encourageons nos étudiant á développer l'esprit de collobaration.
+               Seul, on va vite ; ensemble, on va loin. Nous vivons dans un monde où l'intelligence collective est un facteur clé pour tout projet. Nous vous encourageons à développer l'esprit de collaboration.
             </p>
          </li>
       </ul>
