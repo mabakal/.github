@@ -7,21 +7,6 @@
    Nous partageons des ressources liées à la informatique pour vous aider à développer vos compétences dans divers domaines de l'informatique. Cett plateforme est dédiée à toute personne souhaitant développer ses compétences en informatique novice comme expert.
 </p>
 <h3>
-   Vous trouverez :
-</h3>
-<p>
-   <ul>
-      <li>Des cours dans divers domaine informatique</li>
-      <li>Des tutoriels détaillés vous guidant pas à pas dans la résolution de problèmes spécifiques.</li>
-      <li>Projets concrets, algorithme en IA pour vous inspirer dans la résolution de problèmes réels.</li>
-      <li> Des excercices et des mini projet sur lesquels vous pouvez vous baser pour excercé et développer vos compétences</li>
-   </ul>
-</p>
-<h3>
-   Qui peut tiré partie de cette plateforme:
-</h3>
-   <p>Cette plateforme s'adresse à tous ceux qui souhaitent développer leurs compétences en programmation informatique. Que vous soyez étudiant cherchant à approfondir vos connaissances, professionnel de l'informatique en quête de ressources ou expert dans un autre domaine nécessitant des compétences informatiques, vous trouverez ici des contenus et des ressources adaptés à vos besoins. Posez vos questions, commentez les projets et étendez votre compréhension dans un environnement collaboratif et éducatif.</p>
-<h3>
    Notre mission :
 </h3>
 <p>
