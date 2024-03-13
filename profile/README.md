@@ -44,7 +44,7 @@
    Contact :
 </h3>
 <p>
-   Pour toutes vos questions et préoccupations, n'hésitez pas à nous écrire à l'adresse mabakal7@gmail.com. nous serons ravis de lire vos écris et vous repondre rapidement.
+   Pour toutes vos questions et préoccupations, <a href="mailto:badjodibe@gmail.com">Cliquer pour nous écrire</a>. nous serons ravis de lire vos écris et vous repondre rapidement.
 </p>
 <h3>Suivez-nous :</h3>
 <p>
