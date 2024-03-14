@@ -38,7 +38,7 @@
    Les discussions :
 </h3>
 <p>
-   Pour tous nos projets, vous êtes les bienvenus pour poser des questions, partager vos idées et obtenir de l'aide. Il vous suffit d'avoir un compte GitHub pour participer aux discussions. Nous sommes là pour vous aider à éclaircir vos zones d'ombre.<a href = "https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account"> cliquer ici et suivre les étapes pour créer un compte</a>.
+   Pour tous nos projets, vous êtes les bienvenus pour poser des questions, partager vos idées et obtenir de l'aide. Il vous suffit d'avoir un compte GitHub pour participer aux discussions. Nous sommes là pour vous aider à éclaircir vos zones d'ombre.
 </p>
 <h3>
    Contact :
@@ -46,9 +46,17 @@
 <p>
    Pour toutes vos questions et préoccupations, <a href="mailto:badjodibe@gmail.com">Cliquer pour nous écrire</a>. nous serons ravis de lire vos écris et vous repondre rapidement.
 </p>
-<h3>Suivez-nous :</h3>
+<h3>Quelques liens utils pour commencer</h3>
 <p>
    <ul>
-      <li><a href = "https://www.linkedin.com/company/mabakal/"> LinkedIn </a></li>
+      <li>
+         <h5>Ouvrir un compte</h5>
+         <p>En tant que développeur il est très important de disposer un compte github, cela vous offre des fonctionnalité.Vous pouvez collaborer sur des projets, télécharger des codes et les étudier etc<a href = "https://github.com/"> cliquer ici et suivrez les instructions pour ouvrir un compte</a>. Pour allez plus loin dans vos début avec github,<a href = "https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account"> cliquer ici</a> </p>
+      </li>
+      <li>
+         <h5>Comment est structuré mabakal</h5>
+         <p> Pour s'introdure sur mabakal et voir comment nous avons structuré les codes,<a href = "https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account"> cliquer ici</a> </p> </p>
+      </li>
    </ul>
 </p>
+
