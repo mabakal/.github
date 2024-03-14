@@ -51,7 +51,7 @@
    <ul>
       <li>
          <h5>Ouvrir un compte</h5>
-         <p>En tant que développeur il est très important de disposer un compte github, cela vous offre des fonctionnalité.Vous pouvez collaborer sur des projets, télécharger des codes et les étudier etc<a href = "https://github.com/" target="_blank"> cliquer ici et suivrez les instructions pour ouvrir un compte</a>. Pour allez plus loin dans vos début avec github,<a href = "https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account" target="_blank"> cliquer ici</a> </p>
+         <p>En tant que développeur, il est très important de disposer d'un compte GitHub, car cela vous offre des fonctionnalités telles que la possibilité de collaborer sur des projets, de télécharger des codes et de les étudier, etc. Pour ouvrir un compte, veuillez <a href="https://github.com/" target="_blank">cliquer ici et suivre les instructions</a>. Pour aller plus loin dans vos débuts avec GitHub, <a href="https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account" target="_blank">cliquez ici</a>.
       </li>
       <li>
          <h5>Comment est structuré mabakal</h5>
