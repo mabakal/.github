@@ -51,11 +51,11 @@
    <ul>
       <li>
          <h5>Ouvrir un compte</h5>
-         <p>En tant que développeur il est très important de disposer un compte github, cela vous offre des fonctionnalité.Vous pouvez collaborer sur des projets, télécharger des codes et les étudier etc<a href = "https://github.com/"> cliquer ici et suivrez les instructions pour ouvrir un compte</a>. Pour allez plus loin dans vos début avec github,<a href = "https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account"> cliquer ici</a> </p>
+         <p>En tant que développeur il est très important de disposer un compte github, cela vous offre des fonctionnalité.Vous pouvez collaborer sur des projets, télécharger des codes et les étudier etc<a href = "https://github.com/" target="_blank"> cliquer ici et suivrez les instructions pour ouvrir un compte</a>. Pour allez plus loin dans vos début avec github,<a href = "https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account" target="_blank"> cliquer ici</a> </p>
       </li>
       <li>
          <h5>Comment est structuré mabakal</h5>
-         <p> Pour s'introdure sur mabakal et voir comment nous avons structuré les codes,<a href = "https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account"> cliquer ici</a> </p> </p>
+         <p> Pour s'introdure sur mabakal et voir comment nous avons structuré les codes,<a href = "https://github.com/mabakal/.github/blob/main/profile/introduction.md" target="_blank"> cliquer ici</a> </p> </p>
       </li>
    </ul>
 </p>
