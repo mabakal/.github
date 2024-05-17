@@ -13,7 +13,8 @@ Nous mettons á votre disposition des formations, des tutoriels, des projets pra
 
 ### Comment débuter?
 
-Pour débutrer votre apprentissage, veillez lire ce guide [ici](./introduction.md)
+Pour débutrer votre apprentissage, veillez lire ce guide [ici](../profile/introduction.md)
+
 ### Nous contacter
 
 Vous avez des questions? Quoique ce soit que vous voulez nous partager, vous pouvez nous contacter [ici](mailto:mabakal7@gmail.com). Ne serrions ravie de vous répondre dès que possible.
