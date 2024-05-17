@@ -13,7 +13,7 @@ Nous mettons á votre disposition des formations, des tutoriels, des projets pra
 
 ### Comment débuter?
 
-Pour débutrer votre apprentissage, veillez lire ce guide [ici](../profile/introduction.md)
+Pour débutrer votre apprentissage, veillez lire ce guide [ici](/profile/introduction.md)
 
 ### Nous contacter
 
