@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Bienvenue à vous 🙂!</h1>
 
-C'est un immense plaisir de vous accueillir ici. Si vous avez choisi de vous joindre à nous, c'est probablement parce que vous êtes passionné par l'innovation et la créativité.
+Bienvenue sur notre plateforme ! Nous vous offrons des ressources pour enrichir et développer vos compétences en développement informatique.
 
 ### Ici :
 
