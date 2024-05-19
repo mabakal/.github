@@ -10,6 +10,9 @@ C'est un immense plaisir de vous accueillir ici. Si vous avez choisi de vous joi
 ### Ce que nous mettons á votre disposition
 
 Nous mettons á votre disposition des formations, des tutoriels, des projets pratiques et bien d'autres contenus pour vous aidez.
+### Liste des formations disponibles
+
+Cliquer [ici](https://github.com/orgs/mabakal/repositories) pour voir les ressources disponibles
 
 ### Comment débuter?
 
